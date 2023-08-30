@@ -5,7 +5,7 @@ import java.net.*;
 
 public class Client {
 
-    private static final String SERVER_ADDRESS = "localhost";
+    private static final String SERVER_ADDRESS = "16.171.30.114";
     private static final int SERVER_PORT = 12345;
 
     public static void main(String[] args) throws IOException {
